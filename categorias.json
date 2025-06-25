@@ -1,0 +1,5 @@
+[
+    { "id": "aros", "nombre": "Aros", "marca": "pequepin" },
+    { "id": "pines", "nombre": "Pines", "marca": "pequepin" },
+    { "id": "galletas", "nombre": "Galletas", "marca": "aurora" }
+]

@@ -1,0 +1,20 @@
+{
+    "pequepin": {
+        "nombre": "Pequepin",
+        "logo": "logos/pequepin.jpg",
+        "colores": {
+            "fondo": "#fdf4ea",
+            "primario": "#d9828b",
+            "texto": "#333"
+        }
+    },
+    "aurora": {
+        "nombre": "Aurora",
+        "logo": "logos/aurora.jpg",
+        "colores": {
+            "fondo": "#fff9f2",
+            "primario": "#e6a34c",
+            "texto": "#222"
+        }
+    }
+}
