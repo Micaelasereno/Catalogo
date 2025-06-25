@@ -56,3 +56,22 @@ footer img {
     margin-top: 1rem;
     max-height: 60px;
 }
+
+@media (max-width: 600px) {
+  header select {
+    width: 100%;       /* Combo ocupa todo el ancho */
+    max-width: 100%;   /* Quitar límite máximo */
+  }
+
+  main {
+    flex-direction: column;  /* Productos en columna */
+    align-items: center;     /* Centrar productos */
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .producto {
+    width: 100%;       /* Producto ocupa todo el ancho */
+    max-width: 400px;  /* Pero no demasiado ancho para pantallas grandes */
+  }
+}
